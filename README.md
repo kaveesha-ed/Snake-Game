@@ -27,10 +27,10 @@ Make sure you have **Python** and **Pygame** installed.
 ## 🚀 Running the Game
 Run the following command:
 ```bash
+pip install pygame
 python main.py
 
-### Install Pygame:
-```bash
-pip install pygame
+
+
 
 
