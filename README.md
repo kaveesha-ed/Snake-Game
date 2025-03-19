@@ -10,15 +10,6 @@ A simple Snake Game built using **Python** and **Pygame**.
   - `1` to Quit
   - `2` to Restart
 
-## 🛠 Requirements
-Make sure you have **Python** and **Pygame** installed.
-
-
-## 🚀 Running the Game
-Run the following command:
-```bash
-python main.py
-
 ## 🔧 Features
 ✅ Simple and smooth gameplay
 ✅ Score tracking system
@@ -29,6 +20,14 @@ python main.py
 - 🎨 **Custom Sprites:** Add custom snake and food images.
 - 🔊 **Sound Effects:** Play sound when eating food or game over.
 - ⚡ **Difficulty Levels:** Increase speed as the score rises.
+## 🛠 Requirements
+Make sure you have **Python** and **Pygame** installed.
+
+
+## 🚀 Running the Game
+Run the following command:
+```bash
+python main.py
 
 ### Install Pygame:
 ```bash
