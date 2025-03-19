@@ -13,13 +13,10 @@ A simple Snake Game built using **Python** and **Pygame**.
 ## 🛠 Requirements
 Make sure you have **Python** and **Pygame** installed.
 
-### Install Pygame:
-```bash
-pip install pygame
 
-🚀 Running the Game
+## 🚀 Running the Game
 Run the following command:
-python snake_game.py
+python main.py
 
 🔧 Features
 ✅ Simple and smooth gameplay
@@ -31,3 +28,9 @@ python snake_game.py
 🎨 Add custom snake and food sprites
 🔊 Add sound effects
 ⚡ Add different levels with increasing difficulty
+
+### Install Pygame:
+```bash
+pip install pygame
+
+
