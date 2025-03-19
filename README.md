@@ -16,3 +16,18 @@ Make sure you have **Python** and **Pygame** installed.
 ### Install Pygame:
 ```bash
 pip install pygame
+
+🚀 Running the Game
+Run the following command:
+python snake_game.py
+
+🔧 Features
+✅ Simple and smooth gameplay
+✅ Score tracking system
+✅ Game restart option
+✅ Customizable speed and grid size
+
+📌 Future Improvements
+🎨 Add custom snake and food sprites
+🔊 Add sound effects
+⚡ Add different levels with increasing difficulty
