@@ -16,18 +16,19 @@ Make sure you have **Python** and **Pygame** installed.
 
 ## 🚀 Running the Game
 Run the following command:
+```bash
 python main.py
 
-🔧 Features
+## 🔧 Features
 ✅ Simple and smooth gameplay
 ✅ Score tracking system
 ✅ Game restart option
 ✅ Customizable speed and grid size
 
-📌 Future Improvements
-🎨 Add custom snake and food sprites
-🔊 Add sound effects
-⚡ Add different levels with increasing difficulty
+## 🚀 Future Improvements
+- 🎨 **Custom Sprites:** Add custom snake and food images.
+- 🔊 **Sound Effects:** Play sound when eating food or game over.
+- ⚡ **Difficulty Levels:** Increase speed as the score rises.
 
 ### Install Pygame:
 ```bash
